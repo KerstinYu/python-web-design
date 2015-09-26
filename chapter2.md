@@ -9,12 +9,13 @@
 ### 资源与资料
 + Coursera : U Mich  [ **python for everyone specialization**](https://www.coursera.org/specializations/python) 
   + [python for informatics](http://gen.lib.rus.ec/search.php?req=python+for+informatics&open=0&view=simple&phrase=1&column=def)
-   - [X]Getting started     - [ ] Data structure  - [ ] Networked programs  - [ ] SQL 
+  - [X]Getting started     - [ ] Data structure  - [ ] Networked programs  - [ ] SQL 
 
 + Coursera : U Rice [**interactive programming with python**](https://www.coursera.org/specializations/fundamentalscomputing2?utm_medium=courseDescripTop)
 + [codeacademy](https://www.leetcode.com) 基础语法
 + [leetcode](https://www.leetcode.com) 基础算法
-## Week 1
+
+##  Week 1
 这周学会了：
 + github基本用法，深感自己愚笨。 
 + Markdown
